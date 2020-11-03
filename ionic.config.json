@@ -1,0 +1,8 @@
+{
+  "name": "Luke",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "b02b78c2"
+}
